@@ -422,7 +422,7 @@ sub domain_resolv {
         sub sent_email {
             open FILE, "/var/log/exim_mainlog";
 
-            print_warning("\nALSCO: ");
+            print_warning("\nReport: ");
             print "\n";
           
 
