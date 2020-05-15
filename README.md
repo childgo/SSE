@@ -7,8 +7,8 @@ Usage
 --------------
 
 **# perl <(curl -s https://raw.githubusercontent.com/cPanelTechs/SSE/master/sse.pl) [options]**
-- Example: perl <(curl -s https://raw.githubusercontent.com/childgo/SSE/master/sse.pl) -s 
-- Example: perl <(curl -s https://raw.githubusercontent.com/childgo/SSE/master/sse.pl) -d domain.com 
+- Example: perl <(curl -s https://raw.githubusercontent.com/childgo/SSE/master/ssev1.pl) -s 
+- Example: perl <(curl -s https://raw.githubusercontent.com/childgo/SSE/master/ssev1.pl) -d domain.com 
 
 **Current Checks Impliemented:**
 
